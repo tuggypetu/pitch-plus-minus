@@ -1,0 +1,4 @@
+__pycache__/
+.DS_Store
+pages_deploy_key*
+node_modules/

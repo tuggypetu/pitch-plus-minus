@@ -1,0 +1,64 @@
+{
+ "generated": "2026-11-17",
+ "seasons": [
+  {
+   "season": 2024,
+   "label": "2024-25",
+   "players": 2707,
+   "qualified": 1649,
+   "leagues": [
+    "Bundesliga",
+    "EPL",
+    "LaLiga",
+    "Ligue1",
+    "SerieA"
+   ],
+   "matches": 1751,
+   "mode": "pooled",
+   "context": {
+    "score_+3": 0.003,
+    "score_+2": -0.145,
+    "score_+1": -0.13,
+    "score_-1": 0.125,
+    "score_-2": 0.049,
+    "score_-3": 0.025,
+    "home": 0.187,
+    "man_adv": 0.417,
+    "man_disadv": -0.604
+   }
+  },
+  {
+   "season": 2025,
+   "label": "2025-26",
+   "players": 2688,
+   "qualified": 1660,
+   "leagues": [
+    "Bundesliga",
+    "EPL",
+    "LaLiga",
+    "Ligue1",
+    "SerieA"
+   ],
+   "matches": 1751,
+   "mode": "pooled",
+   "context": {
+    "score_+3": -0.158,
+    "score_+2": -0.163,
+    "score_+1": -0.047,
+    "score_-1": 0.087,
+    "score_-2": 0.121,
+    "score_-3": 0.069,
+    "home": 0.261,
+    "man_adv": 0.482,
+    "man_disadv": -0.564
+   }
+  }
+ ],
+ "leagues": {
+  "EPL": "Premier League",
+  "LaLiga": "LaLiga",
+  "Bundesliga": "Bundesliga",
+  "SerieA": "Serie A",
+  "Ligue1": "Ligue 1"
+ }
+}
